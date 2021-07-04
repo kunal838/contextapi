@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    
+    background-color: rgb(255, 255, 255);
+    
+    padding: 1rem;
+    
+   
+}
+.nav__content{
+    display: flex;
+    align-items: center;
+    
+}
